@@ -12,7 +12,7 @@ title                    : "Kristian Edosomwan / Critical Quantitative Scholar"
 title_separator          : "-"
 name                     : &name "Kristian Edosomwan"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://k.edosomwan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kedosomwan/kedosomwan.github.io"
 
