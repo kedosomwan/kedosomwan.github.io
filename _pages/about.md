@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# <center>Kristian Edosomwan is a Critical Quantitative Scholar ready to work for educational equity.<center>
+# <center>Kristian Edosomwan is a Critical Quantitative scholar ready to research and advocate for educational equity.<center>
 ## Academic Background
 Kristian Edosomwan is a doctoral candidate in the Multicultural Program in the Department of Teaching, Learning, and Culture at Texas A&M University. Specifically, her research centers on academic tracking and discipline as it relates to student outcomes. Her experiences include teaching middle school math and science and serving as a Fulbright English Teaching Assistant in Taiwan. She served two terms as TLAC’s Graduate Student Association’s president and has served as graduate student representative for the Southwestern Educational Research Association and the American Educational Research Associaton's Tracking and De-tracking Special Interest Group. Recently, the Texas branch of the National Association of Multicultural Educators named her an Emerging Scholar.
 ![Award Ceremony](files/Pictures/Personal Pictures/TXNAME_AwardPic.jpeg)
