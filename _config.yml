@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Kristian Edosomwan / Kristian Edosomwan"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Kristian Edosomwan"
+description              : &description "Kristian Edosomwan is a doctoral candidate at Texas A&M University whose research centers on critical quantitative analysis of ability grouping by course and discipline as it relates to student outcomes. She has published articles in Race Ethnicity and Education, School Science and Mathematics, and the High School Journal. "
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
