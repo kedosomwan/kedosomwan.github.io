@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# <center>Kristian Edosomwan<center>
+# <center>About Kristian Edosomwan<center>
 ## Academic Background
 Kristian Edosomwan is a doctoral candidate in the Multicultural Program in the Department of Teaching, Learning, and Culture at Texas A&M University. Specifically, her research centers on academic tracking and discipline as it relates to student outcomes. Her experiences include teaching middle school math and science and serving as a Fulbright English Teaching Assistant in Taiwan. She served two terms as TLAC’s Graduate Student Association’s president and has served as graduate student representative for the Southwestern Educational Research Association and the American Educational Research Association's Tracking and De-tracking Special Interest Group. Recently, she received the emerging scholar award from the Texas branch of the National Association of Multicultural Educators. Upon graduation, she hopes to join the professoriate. 
 ![TXNAME_AwardPic](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/a6c76fae-7ecf-4742-ac67-d3cd82dc4826)
