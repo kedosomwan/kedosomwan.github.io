@@ -27,7 +27,7 @@ You can download my full CV here: [EdosomwanCV](https://github.com/kedosomwan/ke
 * 2014-2015:  		Fulbright Foundation for Scholarly Exchange, Jinmen, Taiwan, English Teaching Assistant
 
 
-## <center>Peer-Reviewed Publications<center>
+## Peer-Reviewed Publications
 - **Edosomwan, K.** Young, J.L., & Young, J.R. (2024). The relationship between middle grades algebra and advanced Carnegie credits: A QuantCrit analysis. *Middle Grades Review, 10*(1), 1-10. https://scholarworks.uvm.edu/mgreview/vol10/iss1/3/ 
 
 - **Edosomwan, K.** & Williams III, J.A. (2023). Double Jeopardy? Examining the influence of mathematics tracking on in-school suspensions through an intersectionality framework. *School Science and Mathematics, 1258(2), 72-84.  https://doi.org/10.1111/ssm.12607 
@@ -42,7 +42,7 @@ You can download my full CV here: [EdosomwanCV](https://github.com/kedosomwan/ke
 
 - Tholen, A., **Edosomwan, K.**, Hong, D., Fulmer, G. W., & Young, J. (2022). Increasing access to advanced mathematics through self-selection: A multinomial logistic regression analysis. *The High School Journal, 105*(2), 145-169. https://doi.org/10.1353/hsj.2022.0003 
 
-## <center>Conference Presentations<center>
+## Conference Presentations
 - Edosomwan, K., Young, J.L., Wandix-White, D., & Hamilton, M. (2024, May 2-4). *Conscientious coursework: An analysis of multicultural education syllabi in teacher preparation programs* [Conference Presentation]. Texas National Association of Multicultural Educators. Houston, Texas, United States.
 
 - Sanders, M., **Edosomwan, K.**, Williams III, J. A. (2024, April 11-14). *“Are they really on track?” A hierarchical linear modeling analysis of Texas mathematics tracking practices* [Conference Presentation]. American Educational Research Association 2024 Convention. Philadelphia, Pennsylvania, United States.
@@ -81,7 +81,7 @@ You can download my full CV here: [EdosomwanCV](https://github.com/kedosomwan/ke
 
 - **Edosomwan, K.** (2021, February 4-5). *Analyzing the Correlation between Academic Coursework and Disciplinary Outcomes * [Conference Presentation]. Southwest Educational Research Association 2021 Convention. Virtual.
 
-## <center>Invited Lectures<center>
+## Invited Lectures
 - Edosomwan, K. (2022, June 15). *Dreaming of College Options.* [Guest Lecture]. D.E.C.A. Summer Day Camp. 
 
 - Edosomwan, K. (2021, November 4). *Surviving a Bureaucracy.* [Guest Lecture]. Texas A&M University TEFB 273: Introduction to Culture, Community, Society, and Schools. 
