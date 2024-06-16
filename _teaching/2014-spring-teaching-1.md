@@ -1,20 +1,38 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+# Teaching Activities
+- Fall 2024		TEFB 273 Introduction to Culture, Community, Society and Schools \
+Texas A&M University School of Education and Human Development\
+*Undergraduate Course: Instructor of Record*
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Summer 2024 		RDNG 372 Reading and Writing across the Middle Grades Curriculum \
+Texas A&M University School of Education and Human Development\
+*Graduate Course: Graduate Teaching Assistant*
 
-Heading 1
-======
+- Spring 2024		INST 222 Foundations of Education in a Multicultural Society \
+Texas A&M University School of Education and Human Development\
+*Undergraduate Course: Instructor of Record*\
 
-Heading 2
-======
+- Fall 2023		INST 222 Foundations of Education in a Multicultural Society \
+Texas A&M University School of Education and Human Development\
+*Undergraduate Course: Instructor of Record*
 
-Heading 3
-======
+- Spring 2022 		EDCI 602 Cultural Foundations of Education 	\
+Texas A&M University School of Education and Human Development\
+*Graduate Course: Graduate Teaching Assistant*
+
+- Fall 2021		EDCI 602 Cultural Foundations of Education	\
+Texas A&M University School of Education and Human Development\
+*Graduate Course: Graduate Teaching Assistant*
+
+- Fall 2021		TEFB 273 Introduction to Culture, Community, Society and Schools\
+`		Texas A&M University School of Education and Human Development\
+*Undergraduate Course: Graduate Teaching Assistant*
+
+- Spring 2021 		EDCI 602 Cultural Foundations of Education\
+Texas A&M University School of Education and Human Development\
+*Graduate Course: Graduate Teaching Assistant*
+
+- Fall 2020 		INST 222 Foundations of Education in a Multicultural Society\
+Texas A&M University School of Education and Human Development\
+*Undergraduate Course: Graduate Teaching Assistant*
+
+# Selected Student Evaluations
