@@ -2,6 +2,7 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
+toc: true
 author_profile: true
 ---
 
