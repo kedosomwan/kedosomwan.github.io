@@ -6,13 +6,18 @@ author_profile: true
 redirect_from:
   - /research
 ---
+
 Inspired by Black Feminist Though and my own experiences as a student and teacher in K-12 schools, I analyze educational inequities and opportunity gaps caused by inequitable access to rigourous coursework and disciplinary disparities. I hypothesize and research on how these issues are worsened by ability grouping that reinforces social inequities based on race and class. To see my list of publications, refer to my [Google Scholar Profile](https://scholar.google.com/citations?user=9EWCrkEAAAAJ&hl=en&oi=ao).
+# Research Agenda
+![Research Agenda](https://github.com/kedosomwan/kedosomwan.github.io/blob/1e0610dcd1c098b7f87f920bb3bbdfd74151e644/images/ResearchAgenda.jpg")
+<img src = "images\ResearchAgenda.jpg">
+# Research Samples
 
-![Research Agenda](https://github.com/kedosomwan/kedosomwan.github.io/blob/9c9019f8bee5c5b9a34be1761e95a47e4489aaf7/files/Pictures/Research%20Graphics/Research%20Agenda%20Graphic.png)
-
-For access to some of my research, here are some samples of conference handouts.
-
-![CritQuant Scoping Review Handout](https://github.com/kedosomwan/kedosomwan.github.io/blob/9c9019f8bee5c5b9a34be1761e95a47e4489aaf7/files/Pictures/Research%20Graphics/A%20Scoping%20Review%20of%20Critical%20Quantitative%20Research%20in%20Education.png)
+## CritQuant Scoping Review
+![Scoping Review Handout](https://github.com/kedosomwan/kedosomwan.github.io/blob/1e0610dcd1c098b7f87f920bb3bbdfd74151e644/images/ScopingReviewCriticalQuantitativeResearchinEducation.jpg)
+<img src = "images\ScopingReviewCriticalQuantitativeResearchinEducaiton.jpg">
 
 
-![Teacher Assignment Handout](https://github.com/kedosomwan/kedosomwan.github.io/blob/9c9019f8bee5c5b9a34be1761e95a47e4489aaf7/files/Pictures/Research%20Graphics/Are%20Mathematics%20Teacher%20Assignments%20Equitable.png)
+## Are Math Teacher Assignmetns Equitable?
+![Math Teacher Handout](https://github.com/kedosomwan/kedosomwan.github.io/blob/1e0610dcd1c098b7f87f920bb3bbdfd74151e644/images/AreMathematicsTeacherAssignmentsEquitable.jpg)
+<img src = "images\AreMathematicsTeacherAssignmentsEquitable.jpg">
