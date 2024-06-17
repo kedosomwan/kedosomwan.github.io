@@ -118,18 +118,17 @@ You can download my full CV here: [EdosomwanCV](https://github.com/kedosomwan/ke
   - Ubuntu Linux
   - Microsoft Windows
 
-## Professional Memberships
-### Current Professional Memberships
+## Current Professional Memberships
 - National Association of Multicultural Education
 - American Educational Research Association (AERA)
 - AERA Tracking and Detracking Special Interest Group
 - Graduate Student Association
-### Past Professional Memberships
+## Past Professional Memberships
 - Southwest Educational Research Association
 - Research Council on Mathematical Learning
 - Association of Teacher Educators
-## Service
-### University Service
+
+## University Service
 - Texas A&M Graduate Student Mentor (2021-Present)
 - Texas A&M Graduate Student Advisory Council Member (2021-2024)
 - Texas A&M Departmental Graduate Student Association President (2022-2024)
@@ -138,17 +137,17 @@ You can download my full CV here: [EdosomwanCV](https://github.com/kedosomwan/ke
 - Co-Host for Texas A&M Outstanding Alumni Campus Visit (Nov 2022)
 - Bold Leaders in Urban Education Professional Development Chair (2022-2023)
 - Texas A&M Graduate Student Association Vice President
-### Professional Service
+## Professional Service
 - AERA Tracking and Detracking SIG Graduate Representative
 - AERA Celebration and Challenges of Detracking Symposium Discussant 
 - School Science and Mathematics Reviewer
 - Research Council on Mathematics Learning 2024 Proceedings Reviewer
 - Southwest Educational Research Association Representative
 - Southwest Educational Research Association Proposal Reviewer
-### Community Service
-- Volunteer at Brazos Valley Boys & Girls Club (Jan 2024)- 
-- Volunteer at Fannin Elementary STEM Night (Mar 2023)- 
-- Volunteer at Fannin Elementary Literacy Night (Oct 2022)- 
+## Community Service
+- Volunteer at Brazos Valley Boys & Girls Club (Jan 2024) 
+- Volunteer at Fannin Elementary STEM Night (Mar 2023) 
+- Volunteer at Fannin Elementary Literacy Night (Oct 2022) 
 - Volunteer at D.E.C.A Summer Camp (Jun 2022)
 
 ## Professional Development
