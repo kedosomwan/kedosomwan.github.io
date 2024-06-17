@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Research"
+title: "Kristian's Research"
 permalink: /research/
 toc: true
 author_profile: true
@@ -53,7 +53,7 @@ Edosomwan, K. Young, J.L., & Young, J.R. (2024). The relationship between middle
 
 ## A Scoping Review of Critical Quantitative Research in Education
 
- Edosomwan, K., Young, J. L., & Young, J. R. (2024, April 11-14). *A Scoping Review of QuantCrit Research: Toward Consistency and Advancing the Approaches.* [Conference Presentation]. American Educational Research Association 2024 Convention. Philadelphia, Pennsylvania, United States.
+Edosomwan, K., Young, J. L., & Young, J. R. (2024, April 11-14). *A Scoping Review of QuantCrit Research: Toward Consistency and Advancing the Approaches.* [Conference Presentation]. American Educational Research Association 2024 Convention. Philadelphia, Pennsylvania, United States.
 <image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/f291b78e-b68d-437c-aeaa-5693872e852a">
 
 ## Are Math Teacher Assignments Equitable?
