@@ -7,10 +7,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+You can download my full CV here: [EdosomwanCV](https://github.com/kedosomwan/kedosomwan.github.io/blob/8e3065e282c70606a8f18b62b189717f2e2fba53/files/Documents/EdosomwanCV.pdf)
+
 * table of contents
 {:toc}
 {% include base_path %} \
-You can download my full CV here: [EdosomwanCV](https://github.com/kedosomwan/kedosomwan.github.io/blob/8e3065e282c70606a8f18b62b189717f2e2fba53/files/Documents/EdosomwanCV.pdf)
+
 
 ## Education
 
