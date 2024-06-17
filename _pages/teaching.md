@@ -5,6 +5,8 @@ toc: true
 permalink: /teaching/
 author_profile: true
 ---
+
+{toc:}
 # Courses Taught
 - Fall 2024		TEFB 273 Introduction to Culture, Community, Society and Schools \
 Texas A&M University School of Education and Human Development\
