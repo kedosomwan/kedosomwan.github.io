@@ -11,9 +11,7 @@ You can download my full CV here: [EdosomwanCV](https://github.com/kedosomwan/ke
 
 * table of contents
 {:toc}
-{% include base_path %} \
-
-
+{% include base_path %} 
 ## Education
 
 * Ph.D in Curriculum and Instruction, Texas A&M University, 2025 (expected)
