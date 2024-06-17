@@ -21,12 +21,6 @@ Texas A&M University School of Education and Human Development\
 *Undergraduate Course: Instructor of Record*
   - This undergraduate course teaches students about multicultural education. While it takes an educational focus, students from different departments take this course as a diversity course. 
 
-# INST 222 Student Collaborative Work Examples
-
-## Approaches to Multicultural Education
-
-## Colorblind Perspective in Schools
-
 # Student evaluations
 
 <blockquote>
@@ -96,3 +90,12 @@ Ms. Edosomwan was fantastic. She was always attentive, and having her be very in
 Very well organized and taught, highly effective at keeping students engaged. 
   </p>
 </blockquote>
+
+# INST 222 Student Collaborative Work Examples
+
+## Approaches to Multicultural Education
+[Approaches to Multicultural Education Group Activity.pdf](https://github.com/user-attachments/files/15876306/Approaches.to.Multicultural.Education.Group.Activity.pdf)
+
+## Colorblind Perspective in Schools
+[The Colorblind Perspective in Schools INST 222-501.pdf](https://github.com/user-attachments/files/15876304/The.Colorblind.Perspective.in.Schools.INST.222-501.pdf)
+
