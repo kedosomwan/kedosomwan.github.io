@@ -5,9 +5,19 @@ permalink: /teaching/
 toc: true
 author_profile: true
 ---
-* table of contents
-{:toc}
-# Courses Taught
+<div class="toc">
+  <h2>Table of Contents</h2>
+  <ol>
+    <li><a href="#courses-taught">Courses Taught</a></li>
+    <li><a href="#student-evaluations">Student Evaluations</a>
+    <li><a href="#INST-222-Student-Collaborative-Work-Examples">INST 222 Student Collaborative Work Examples</a>
+      <ol>
+      </ol>
+    </li>
+  </ol>
+</div>
+
+<h1>Courses Taught</h1>
 - Fall 2024		TEFB 273 Introduction to Culture, Community, Society and Schools \
 Texas A&M University School of Education and Human Development\
 *Undergraduate Course: Instructor of Record*
@@ -22,7 +32,7 @@ Texas A&M University School of Education and Human Development\
 *Undergraduate Course: Instructor of Record*
   - This undergraduate course teaches students about multicultural education. While it takes an educational focus, students from different departments take this course as a diversity course. 
 
-# Student evaluations
+<h1>Student evaluations</h1>
 
 <blockquote>
   <p>
@@ -92,7 +102,7 @@ Very well organized and taught, highly effective at keeping students engaged.
   </p>
 </blockquote>
 
-# INST 222 Student Collaborative Work Examples
+<h1>INST 222 Student Collaborative Work Examples</h>
 
 ## Approaches to Multicultural Education
 [Approaches to Multicultural Education Group Activity.pdf](https://github.com/user-attachments/files/15876306/Approaches.to.Multicultural.Education.Group.Activity.pdf)
