@@ -6,7 +6,24 @@ author_profile: true
 ---
 * Do not remove this line (it will not be displayed)
 {:toc}
+// Adding 'Contents' headline to the TOC
+#markdown-toc::before {
+    content: "Contents";
+    font-weight: bold;
+}
 
+
+// Using numbers instead of bullets for listing
+#markdown-toc ul {
+    list-style: decimal;
+}
+
+#markdown-toc {
+    border: 1px solid #aaa;
+    padding: 1.5em;
+    list-style: decimal;
+    display: inline-block;
+}
 # Courses Taught
 - Fall 2024		TEFB 273 Introduction to Culture, Community, Society and Schools \
 Texas A&M University School of Education and Human Development\
