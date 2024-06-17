@@ -7,24 +7,6 @@ author_profile: true
 ---
 * toc
 {:toc}
-/* Add "Contents" headline */
-#markdown-toc::before {
-  content: "Contents";
-  font-weight: bold;
-}
-
-/* Use numbers instead of bullets */
-#markdown-toc ul {
-  list-style: decimal;
-}
-
-/* Style the TOC container */
-#markdown-toc {
-  border: 1px solid #aaa;
-  padding: 1.5em;
-  list-style: decimal;
-  display: inline-block;
-}
 # Courses Taught
 - Fall 2024		TEFB 273 Introduction to Culture, Community, Society and Schools \
 Texas A&M University School of Education and Human Development\
