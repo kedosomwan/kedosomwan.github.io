@@ -26,4 +26,4 @@ le](https://scholar.google.com/citations?user=9EWCrkEAAAAJ&hl=en&oi=ao).
 
 ## CritQuant Scoping Review
 
-## Are Math Teacher Assignments Equitable?
+## Are Math Teacher Assignmetns Equitable?
