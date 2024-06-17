@@ -11,7 +11,7 @@ Inspired by Black Feminist Though and my own experiences as a student and teache
 
 # Research Agenda
 
-![Research Agenda](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/945a664b-e555-44bd-947e-3fac3c420978)
+<image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/945a664b-e555-44bd-947e-3fac3c420978">
 
 # First Author Peer-Reviewed Publications
 You can find a full list of my peer-reviewed articles on [Google Scholar](https://scholar.google.com/citations?user=9EWCrkEAAAAJ&hl=en&oi=ao).
@@ -48,8 +48,8 @@ Edosomwan, K. Young, J.L., & Young, J.R. (2024). The relationship between middle
 # Selected Conference Presentations
 ## A Scoping Review of Critical Quantitative Research in Education
  Edosomwan, K., Young, J. L., & Young, J. R. (2024, April 11-14). *A Scoping Review of QuantCrit Research: Toward Consistency and Advancing the Approaches.* [Conference Presentation]. American Educational Research Association 2024 Convention. Philadelphia, Pennsylvania, United States.
-![A Scoping Review of Critical Quantitative Research in Education](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/f291b78e-b68d-437c-aeaa-5693872e852a)
+<image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/f291b78e-b68d-437c-aeaa-5693872e852a">
 
 ## Are Math Teacher Assignments Equitable?
 Edosomwan, K., O’Neal, L., & Sanders, M. (2024, April 11-14). *Are Mathematics Teacher Assignments Equitable? An Analysis of the Qualifications of Mathematics Teachers by Course Level.* [Conference Presentation]. American Educational Research Association 2024 Convention. Philadelphia, Pennsylvania, United States.
-![Are Mathematics Teacher Assignments Equitable](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/81b909d7-ae34-42fb-9a9a-a859ea0b8583)
+<image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/81b909d7-ae34-42fb-9a9a-a859ea0b8583">
