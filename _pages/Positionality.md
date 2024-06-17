@@ -1,4 +1,13 @@
- # <center>Positionality<center>
+---
+layout: archive
+title: "Positionality"
+permalink: /positionality/
+author_profile: true
+redirect_from:
+  - /positionality
+---
+
+{% include base_path %} \ # <center>Positionality<center>
  ## Impassioned by Personal Experiences
  My personal experiences have shaped my academic journey and underscored the urgency of addressing racial and ethnic disparities in educational assessment. From my early encounters with the education system, where arbitrary measures threatened to dictate my academic trajectory, to my experiences as an educator witnessing the racialized nature of tracking, I have been acutely aware of the profound impact of structural discrimination. My positionality as a scholar is deeply rooted in lived experiences, a commitment to dismantling structural discrimination, and a passion for empowering parents in navigating the educational landscape. 
  
