@@ -1,11 +1,14 @@
 ---
 layout: archive
 title: "My Positionality"
+toc: true
 permalink: /positionality/
 author_profile: true
 redirect_from:
   - /positionality
 ---
+* table of contents
+{:toc}
 
 {% include base_path %}
 ## Impassioned by Personal Experiences
