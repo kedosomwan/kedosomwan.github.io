@@ -1,11 +1,9 @@
 ---
 layout: archive
 title: "My Research Agenda"
-toc: true
 permalink: /research/
+toc: true
 author_profile: true
-redirect_from:
-  - /research
 ---
 * table of contents
 {:toc}
