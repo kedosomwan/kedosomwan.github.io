@@ -2,10 +2,8 @@
 layout: archive
 title: "Service"
 permalink: /service/
-author_profile: true
 toc: true
-redirect_from:
-  - /service
+author_profile: true
 ---
 * table of contents
 {:toc}
