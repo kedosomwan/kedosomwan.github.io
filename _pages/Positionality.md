@@ -15,15 +15,12 @@ My personal experiences have shaped my academic journey and underscored the urge
 In elementary school, my first-grade teacher tried to put me in special education, which could have limited my opportunities for academic success. Fortunately, my mother, a special education teacher, intervened and prevented this from happening. This experience highlighted the pivotal role that familial knowledge plays in navigating the educational landscape. I entered advanced classes in my middle school and graduated Clifton J. Ozen Magnet High School in Beaumont, TX as Valedictorian in 2010.
 
 <image src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/893ed061-43d8-4180-864d-b939411c2d92">
-
-
 <image src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/209d8e39-2989-485f-b781-136e3965418a">
 
 # K-12 Teaching Experience
 As a teacher, I observed the persistent racial divides in tracking practices, where Latinx and African American students faced unequal opportunities. This stark reality persisted even when transitioning to a racially diverse school, emphasizing the systemic nature of these inequalities. The prejudiced perceptions educators held about students' potential and motivation based on their track placements further fueled my commitment to unraveling the complexities of educational measurement. This commitment led to my pursuit of my PhD.
 
 <image src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/2eaca729-347b-47ce-a773-211665cc4d39">
-  
 <image src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/1d14be42-469d-4694-984d-e4a1d287d356">
 
 # Graduate Studies and Current Focus
