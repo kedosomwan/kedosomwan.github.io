@@ -41,6 +41,9 @@ You can find a full list of my peer-reviewed articles on <a href="https://schola
 
 - In this work, we explored the correlation between in school suspension (ISS) and advanced math taking, finding that advanced math students had lowered odds of attending ISS based on a logistic regression analysis of High School Longitudinal Study of 2009 (HSLS:09). However, our intersectional approach found those effects varied across racial/ethnic and gender groups.</p>
 - My first research project, *Tracking the Effects* in some ways answers my questions on discipline and advanced coursework. But my method and theoretical understanding at the time was limited. After taking a theory class, I wanted to apply intersectionality to that idea and include more variables according to student identity. I came up with the idea, performed the analysis, and wrote the introduction, methods, findings, and half of the literature review and discussion. Then I approached Dr. John A. Williams, an expert on school discipline, to help with that aspect of the literature review and recommendations.
+- I am proud to say this work was spotlit by SIG #27
+<image src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/14dc9af4-02ea-4d0d-ba31-795a479e68dc" width = "500">
+
 
 ## The relationship between middle grades algebra and advanced Carnegie credits: A QuantCrit analysis.</h2>
 
