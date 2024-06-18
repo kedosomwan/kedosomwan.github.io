@@ -27,7 +27,7 @@ You can find a full list of my peer-reviewed articles on <a href="https://schola
 - This was my first published article! Based on my own experience with having access to advanced mathematics based on my middle school Algebra I background, I wanted to see if similar correlations were visible in national data. During the 2021 Snowpocalyse that hit Texas, I had no power for three days and with no internet, chose to work on learning R programming to answer my question while walking to the laundry room to charge my computer periodically. I really grew with this project, going from individually calculating each odds ratio to learning how to account for other variables by finding odds ratios through logistic regression. I fell in love with using R though R studio and became (in my opinion) a self-taught R guru, although over the years I discovered better ways to run and present the results of similar analyses.
 
 
-## Tracking the effects: Examining the opportunity stratification hypothesis in action</h2>
+## Tracking the effects: Examining the opportunity stratification hypothesis in action
 
 <p style="padding-left: 2em; text-indent: -2em;">Edosomwan, K., Young, J.L., Butler, B., Young, J.R., & Williams III, J. A. (2023). Tracking the effects: Examining the opportunity stratification hypothesis in action. <i>Journal of Education, 08</i> (0), 1-15. <a href="https://doi.org/10.1177/00220574231168634">https://doi.org/10.1177/00220574231168634</a></p>
 
@@ -39,7 +39,7 @@ You can find a full list of my peer-reviewed articles on <a href="https://schola
 
 <p style="padding-left: 2em; text-indent: -2em;">Edosomwan, K. & Williams III, J.A. (2023). Double Jeopardy? Examining the influence of mathematics tracking on in-school suspensions through an intersectionality framework. *School Science and Mathematics, 1258(2), 72-84. <a href="https://doi.org/10.1111/ssm.12607">https://doi.org/10.1111/ssm.12607</a></p>
 
-- In this work, we explored the correlation between in school suspension (ISS) and advanced math taking, finding that advanced math students had lowered odds of attending ISS based on a logistic regression analysis of High School Longitudinal Study of 2009 (HSLS:09). However, our intersectional approach found those effects varied across racial/ethnic and gender groups.</p>
+- In this work, we explored the correlation between in school suspension (ISS) and advanced math taking, finding that advanced math students had lowered odds of attending ISS based on a logistic regression analysis of High School Longitudinal Study of 2009 (HSLS:09). However, our intersectional approach found those effects varied across racial/ethnic and gender groups.
 - My first research project, *Tracking the Effects* in some ways answers my questions on discipline and advanced coursework. But my method and theoretical understanding at the time was limited. After taking a theory class, I wanted to apply intersectionality to that idea and include more variables according to student identity. I came up with the idea, performed the analysis, and wrote the introduction, methods, findings, and half of the literature review and discussion. Then I approached Dr. John A. Williams, an expert on school discipline, to help with that aspect of the literature review and recommendations.
 - I am proud to say this work was spotlit by SIG #27
 <image src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/14dc9af4-02ea-4d0d-ba31-795a479e68dc" width = "500">
