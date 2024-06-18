@@ -10,6 +10,8 @@ redirect_from:
 * table of contents
 {:toc}
 
+# Research Agenda
+
 Inspired by Black Feminist Though and my own experiences as a student and teacher in K-12 schools, I analyze educational inequities and opportunity gaps caused by inequitable access to rigorous coursework and disciplinary disparities. I hypothesize and research on how these issues are worsened by ability grouping that reinforces social inequities based on race and class.
 
 ![](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/945a664b-e555-44bd-947e-3fac3c420978)
