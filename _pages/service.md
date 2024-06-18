@@ -37,17 +37,24 @@ I serve as a peer mentor for students new to the doctoral process, with both for
 - completed training to become [Graduate Mentoring Academy Fellow](https://grad.tamu.edu/professional-development/mentoring) 
 
 # Professional Service
-- Tracking and Detracking Special Interest Group Graduate Representative (2023-2024)
+
 - Southwest Educational Research Association Campus Representative (2022-2023)
+  - facilitated conference sessions
+  - solicited scholarship funds from university
+  - reviewed scholarship applications
 - Southwest Educational Research Association Proposal reviewer (2020-2023)
-  
+  - reviewed conference proposals
+- Tracking and Detracking Special Interest Group Graduate Representative (2023-2024)
+  - attend monthly business meeding
+  - recruited new members
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/96f9a633-22f5-49fe-808b-fcab4d4014ef" class = "center" width ="500"/>
 
 # Community Service
 - Volunteer at Brazos Valley Boys & Girls Club (Jan 2024)
 - Volunteer at Fannin Elementary STEM Night (Mar 2023)
+- Volunteer at D.E.C.A Summer Camp (Jun 2022)
 - Volunteer at Fannin Elementary Literacy Night (Oct 2022)
 
  <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/c6308faf-ab43-4362-b478-124b486f7382" class = "center" width ="500"/>
 
-- Volunteer at D.E.C.A Summer Camp (Jun 2022)
+
