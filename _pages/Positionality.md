@@ -23,8 +23,8 @@ As a teacher, I observed the persistent racial divides in tracking practices, wh
 ![](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/1d14be42-469d-4694-984d-e4a1d287d356)
 
 # Graduate Studies and Current Focus
-My graduate studies have equipped me with the theoretical framework and critical quantitative lens to scrutinize the discriminatory practices inherent in ability grouping and tracking. I aim to contribute to the field by developing and validating a survey instrument for parents. This tool can promote better communication between homes and schools and provide insights into parents' perceptions of tracking and ability grouping practices. By fostering better communication between homes and schools, I aspire to catalyze positive change and dismantle the barriers marginalized students face.
-
+My graduate studies have equipped me with the theoretical framework and critical quantitative lens to scrutinize the discriminatory practices inherent in ability grouping and tracking. I aim to contribute to the field by developing and validating a survey instrument for parents. This tool can promote better communication between homes and schools and provide insights into parents' perceptions of tracking and ability grouping practices. By fostering better communication between homes and schools, I aspire to catalyze positive change and dismantle the barriers marginalized students face. \
+\
 I utilize a QuantCrit paradigm that aligns my commitment to critical race theory and quantitative methodologies. As a Black woman, my interest in Black Feminist Thought fuels my research agenda. My past, present and future research projects focus on the intricacies of racism's centrality in student placement, explore independent variables related to tracking, and culminate in proposing policy and praxis implications for promoting social justice.
 
 ![](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/945a664b-e555-44bd-947e-3fac3c420978)
