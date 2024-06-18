@@ -12,7 +12,7 @@ redirect_from:
 
 Inspired by Black Feminist Though and my own experiences as a student and teacher in K-12 schools, I analyze educational inequities and opportunity gaps caused by inequitable access to rigorous coursework and disciplinary disparities. I hypothesize and research on how these issues are worsened by ability grouping that reinforces social inequities based on race and class.
 
-<image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/945a664b-e555-44bd-947e-3fac3c420978">
+![](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/945a664b-e555-44bd-947e-3fac3c420978)
 
 # Summaries and Backgrounds of Selected Publication
 
@@ -42,7 +42,7 @@ You can find a full list of my peer-reviewed articles on <a href="https://schola
 - In this work, we explored the correlation between in school suspension (ISS) and advanced math taking, finding that advanced math students had lowered odds of attending ISS based on a logistic regression analysis of High School Longitudinal Study of 2009 (HSLS:09). However, our intersectional approach found those effects varied across racial/ethnic and gender groups.
 - My first research project, *Tracking the Effects* in some ways answers my questions on discipline and advanced coursework. But my method and theoretical understanding at the time was limited. After taking a theory class, I wanted to apply intersectionality to that idea and include more variables according to student identity. I came up with the idea, performed the analysis, and wrote the introduction, methods, findings, and half of the literature review and discussion. Then I approached Dr. John A. Williams, an expert on school discipline, to help with that aspect of the literature review and recommendations.
 - I am proud to say this work was spotlit by SIG #27
-<image src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/14dc9af4-02ea-4d0d-ba31-795a479e68dc" width = "500">
+![](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/14dc9af4-02ea-4d0d-ba31-795a479e68dc)
 
 
 ## The relationship between middle grades algebra and advanced Carnegie credits: A QuantCrit analysis.
@@ -56,8 +56,8 @@ You can find a full list of my peer-reviewed articles on <a href="https://schola
 
 ## A Scoping Review of Critical Quantitative Research in Education
 
-<image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/f291b78e-b68d-437c-aeaa-5693872e852a">
+![](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/f291b78e-b68d-437c-aeaa-5693872e852a)
 
 ## Are Math Teacher Assignments Equitable?
 
-<image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/81b909d7-ae34-42fb-9a9a-a859ea0b8583">
+![](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/81b909d7-ae34-42fb-9a9a-a859ea0b8583)
