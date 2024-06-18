@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-# <center>Bio<center>
+# <center>About Me<center>
 Kristian Edosomwan is a doctoral candidate in the Multicultural Program in the Department of Teaching, Learning, and Culture (TLAC) at Texas A&M University. With two retired teachers as parents, her educational roots run deep. Her father hails from Nigeria and her mother was born and raised in rural Louisiana, where she was one of the first students to desegregate her middle school.
+  <image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/61b5b73c-1585-4ee7-b570-510cb2f9ce84">
+  <figcaption><em>My wedding picture with my husband and parents</em></figcaption>
 
 She is now a critical quantitative scholar ready to research and advocate for educational equity. Specifically, her research centers on academic tracking and discipline as it relates to student outcomes. Her experiences include teaching middle school math and science in Texas and serving as a Fulbright English Teaching Assistant in Taiwan. She served two terms as TLAC’s Graduate Student Association’s president and has served as graduate student representative for the Southwestern Educational Research Association and the American Educational Research Association's Tracking and De-tracking Special Interest Group. She frequently attends conferences to share her research.
 
   <image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/1b603728-a94b-4ce7-941b-240ef579a678">
-  <figcaption><em>At AERA 2024</em></figcaption>
+  <figcaption><em>At AERA 2024 with Colleagues</em></figcaption>
 
 
 Recently, the Texas branch of the National Association of Multicultural Educators named her an Emerging Scholar.
@@ -33,4 +35,4 @@ Her hobbies include reading, spending time with family, attending live pro-wrest
 Her sister even convinced her to participate in the Houston Spartan Sprint Obstacle Race in 2022 (which they ended up walking because someone (her sister) didn't train for it).
 
   <image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/1f2738c9-6f78-4396-9fc5-573c3ea1a968">
-  <figcaption><em>Surviving an obstacle race!</em></figcaption>
+  <figcaption><em>Surviving an obstacle race with my sister</em></figcaption>
