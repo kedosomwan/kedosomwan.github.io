@@ -30,9 +30,10 @@ For three years from 2021-2023, I was an officer in my department's Graduate Stu
 - organized Brown Bag workshop events for the School of Education and Human Development
 
 ## Graduate Student Peer Mentor
-I served as a peer mentor for students new to the doctoral process, often taking on extra mentees when  needed. 
+I serve as a peer mentor for students new to the doctoral process, with both formal and informal mentoring activities. 
 - mentored incoming students through conference and publication process
 - connected peer scholars for projects and publications
+- trained new students in running and analyzing quantitative analyses
 - completed training to become [Graduate Mentoring Academy Fellow](https://grad.tamu.edu/professional-development/mentoring) 
 
 # Professional Service
