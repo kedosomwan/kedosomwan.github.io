@@ -19,7 +19,6 @@ Recently, the Texas branch of the National Association of Multicultural Educator
   <image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/a231db5a-ddbc-4566-86cf-e36efcfb3f82">
     <figcaption><em>TXNAME Award Ceremony</em></figcaption>
 
-
 # Personal Bio
 Kristian enjoys being outside and working out. She spent two years as a Bicycle Sports Club Volunteer Ride Leader and can frequently be found jogging or walking around the neighborhood or local parks. Sometimes she even drags her husband along with her!
 
