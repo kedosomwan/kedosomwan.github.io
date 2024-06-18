@@ -13,6 +13,7 @@ I worked as the professional development chair for Bold Leaders in Urban Educati
 - helped write a successful grant to provide travel scholarships for students
 - arranged for journal editors and expert grant writers to give professional development workshops
 - was honored with the other founding officers with the Adair New Organization of the Year Award.
+
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/c28404c7-79ea-45b9-87b3-b5e7e142d24a" class = "center" width ="300"/>
 
 ## Graduate Student Association (GSA)
