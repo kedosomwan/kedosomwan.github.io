@@ -42,13 +42,11 @@ This course was very fun and helped me learn a lot that I can take with me in my
   </p>
 </blockquote>
 
-
 <blockquote>
   <p>
 Opens new perspectives and allows you to be more understanding and accepting of others differences and cultures. 
   </p>
 </blockquote>
-
 
 <blockquote>
   <p>
@@ -95,8 +93,8 @@ Very well organized and taught, highly effective at keeping students engaged.
 # INST 222 Student Collaborative Work Examples
 
 ## Approaches to Multicultural Education
-<iframe src="https://github.com/user-attachments/files/15876306/Approaches.to.Multicultural.Education.Group.Activity.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/15876306/Approaches.to.Multicultural.Education.Group.Activity.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 ## Colorblind Perspective in Schools
-<iframe src="https://github.com/user-attachments/files/15876304/The.Colorblind.Perspective.in.Schools.INST.222-501.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="/files/15876304/The.Colorblind.Perspective.in.Schools.INST.222-501.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
