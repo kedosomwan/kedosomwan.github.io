@@ -93,8 +93,7 @@ Very well organized and taught, highly effective at keeping students engaged.
 # INST 222 Student Collaborative Work Examples
 
 ## Approaches to Multicultural Education
-<iframe src="https://github.com/kedosomwan/kedosomwan.github.io/blob/master/files/Documents/Approaches%20to%20Multicultural%20Education%20Group%20Activity.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe src="https://kedosomwan.github.io/files/Documents/Approaches%20to%20Multicultural%20Education%20Group%20Activity.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
 
 ## Colorblind Perspective in Schools
-<iframe src="https://github.com/kedosomwan/kedosomwan.github.io/blob/4565195a753bddb184f02a8f5cbda7affa7fd2d0/files/Documents/The%20Colorblind%20Perspective%20in%20Schools%20INST%20222-501.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-
+<iframe src="https://kedosomwan.github.io/files/Documents/The%20Colorblind%20Perspective%20in%20Schools%20INST%20222-501.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
