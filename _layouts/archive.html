@@ -6,6 +6,8 @@ layout: default
   {% include page__hero.html %}
 {% endif %}
 
+{{ content | toc }}
+
 {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
     {% include breadcrumbs.html %}
