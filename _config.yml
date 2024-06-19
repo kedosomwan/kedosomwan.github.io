@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kristian Edosomwan / QuantCrit Researcher"
+title                    : "Kristian Edosomwan"
 title_separator          : "-"
 name                     : &name "Kristian Edosomwan"
-description              : &description ""
+description              : &description "personal description"
 url                      : https://kedosomwan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kedosomwan/kedosomwan.github.io"
@@ -21,23 +21,57 @@ repository               : "kedosomwan/kedosomwan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "EdosomwanHeadshot.png"
   name             : "Kristian Edosomwan"
-  pronouns         : "she/her"  
-  bio              : "Kristian Edosomwan is a doctoral candidate at Texas A&M University whose research centers on critical quantitative analysis of ability grouping by course and discipline as it relates to student outcomes. She has published articles in Race Ethnicity and Education, School Science and Mathematics, and the High School Journal. "
+  pronouns         : #"she/her"  
+  bio              : "Doctoral candidate and critical quantitative scholar"
   location         : "College Station, TX"
-  employer         : "Texas A&M University"
-  uri              : "https://kedosomwan.github.io/"
+  employer         : "Texas A&M University Department of Teaching, Learning and Culture"
+  uri              : # URL
   email            : "k.edosomwan@tamu.edu" 
 
   # Academic websites
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=9EWCrkEAAAAJ&hl=en&oi=ao" 
+  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-8152-9445"
+  semantic         : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Kristian-Edosomwan"
-  # Social media
-  linkedin         : "https://www.linkedin.com/in/kristian-edosomwan-a82964169"
-  twitter          : "https://x.com/K_Edosomwan"
 
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : # "kedosomwan"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Social media
+  bluesky          : # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : "kristian-edosomwan-a82964169"
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : "K_Edosomwan"
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # URL
 
 
 # Site Settings
