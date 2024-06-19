@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kristian Edosomwan / Critical Quantitative Scholar"
+title                    : "Kristian Edosomwan"
 title_separator          : "-"
 name                     : &name "Kristian Edosomwan"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "EdosomwanHeadshot.png"
   name             : "Kristian Edosomwan"
   pronouns         : #"she/her"  
-  bio              : "Doctoral candidate in education at Texas A&M University researching ability grouping"
+  bio              : "Doctoral candidate and critical quantitative scholar"
   location         : "College Station, TX"
-  employer         : "Texas A&M University"
+  employer         : "Texas A&M University Department of Teaching, Learning and Culture"
   uri              : # URL
   email            : "k.edosomwan@tamu.edu" 
 
