@@ -21,7 +21,7 @@ repository               : "kedosomwan/kedosomwan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "EdosomwanHeadshot.png"
   name             : "Kristian Edosomwan"
   pronouns         : #"she/her"  
   bio              : "Doctoral candidate in education at Texas A&M University researching ability grouping"
