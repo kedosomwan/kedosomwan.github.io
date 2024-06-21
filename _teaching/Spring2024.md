@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-spring-teaching-1
 venue: "Texas A&M University, Department of Teaching, Learning, and Culture"
-date: Spring 2024
+date: 2024-01-19
 location: "College Station, TX"
 ---
