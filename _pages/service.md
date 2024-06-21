@@ -29,18 +29,11 @@ For three years from 2021-2023, I was an officer in my department's Graduate Stu
 - met with School Associate Dean to pass on department graduate student concerns
 - organized Brown Bag workshop events for the School of Education and Human Development
 
-## Volunteer Quantitative Research Mentor
-Over my years in the graduate program, multiple students from my program area have requested my consultation on quantitative data analysis as a quantitative research expert.
-- trained students in running and analyzing quantitative analyses
-- checked code and analysis for peers
-- helped peers do exploratory data analysis and create research questions
-- guided students in discovering relevant secondary data sets
-
-
 ## Graduate Student Peer Mentor
 I serve as a peer mentor for students new to the doctoral process, with both formal and informal mentoring activities. 
 - mentored incoming students through conference and publication process
 - connected peer scholars for projects and publications
+- trained new students in running and analyzing quantitative analyses
 - completed training to become [Graduate Mentoring Academy Fellow](https://grad.tamu.edu/professional-development/mentoring) 
 
 # Professional Service
