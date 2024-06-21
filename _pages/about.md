@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-# <center>Bio<center>
 # <center>About Me<center>
 Kristian Edosomwan is a doctoral candidate in the Multicultural Program in the Department of Teaching, Learning, and Culture (TLAC) at Texas A&M University. With two retired teachers as parents, her educational roots run deep. Her father hails from Nigeria and her mother was born and raised in rural Louisiana, where she was one of the first students to desegregate her middle school.
   <image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/61b5b73c-1585-4ee7-b570-510cb2f9ce84">
@@ -20,7 +18,8 @@ She is now a critical quantitative scholar ready to research and advocate for ed
 
 
 Recently, the Texas branch of the National Association of Multicultural Educators named her an Emerging Scholar.
-![TXNAME_AwardPic](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/50681c55-e94a-4735-8f7e-4fabe589be2f)
+  <image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/50681c55-e94a-4735-8f7e-4fabe589be2f">
+  <figcaption><em>TXNAME Award Ceremony</em></figcaption>
 
 Her hobbies include reading, spending time with family, exercising outdoors, and attending live pro-wrestling events. Any time she can do more than one of those at the same time is a big win in her book. Her sister even convinced her to participate in the Houston Spartan Sprint Obstacle Race in 2022 (which they ended up walking because someone (her sister) didn't train for it).
 
