@@ -7,13 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-# <center>About Kristian Edosomwan<center>
-## Academic Background
-Kristian Edosomwan is a doctoral candidate in the Multicultural Program in the Department of Teaching, Learning, and Culture at Texas A&M University. Specifically, her research centers on academic tracking and discipline as it relates to student outcomes. Her experiences include teaching middle school math and science and serving as a Fulbright English Teaching Assistant in Taiwan. She served two terms as TLAC’s Graduate Student Association’s president and has served as graduate student representative for the Southwestern Educational Research Association and the American Educational Research Association's Tracking and De-tracking Special Interest Group. Recently, she received the emerging scholar award from the Texas branch of the National Association of Multicultural Educators. Upon graduation, she hopes to join the professoriate. 
-![TXNAME_AwardPic](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/a6c76fae-7ecf-4742-ac67-d3cd82dc4826)
+# <center>Bio<center>
+# <center>About Me<center>
+Kristian Edosomwan is a doctoral candidate in the Multicultural Program in the Department of Teaching, Learning, and Culture (TLAC) at Texas A&M University. With two retired teachers as parents, her educational roots run deep. Her father hails from Nigeria and her mother was born and raised in rural Louisiana, where she was one of the first students to desegregate her middle school.
+  <image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/61b5b73c-1585-4ee7-b570-510cb2f9ce84">
+  <figcaption><em>My wedding picture with my husband and parents</em></figcaption>
 
-## Personal Background
-Kristian enjoys being outside and working out. Her sister even convinced her to participate in the Houston Spartan Sprint Obstacle Race in 2022. She spent two years as a Bicycle Sports Club Volunteer Ride Leader and can frequently be found jogging around the neighborhood or local parks. Her hobbies include reading, spending time with family, and playing cozy video games (Stardew Valley is a particular favorite). 
-![MountainFamily](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/e552874b-8242-4844-9d1f-2a32c385f77e)
-![SpartanwithJillian](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/08ced427-1d7b-4d63-8b7d-8c589058584d)
+She is now a critical quantitative scholar ready to research and advocate for educational equity. Specifically, her research centers on academic tracking and discipline as it relates to student outcomes. Her experiences include teaching middle school math and science in Texas and serving as a Fulbright English Teaching Assistant in Taiwan. She served two terms as TLAC’s Graduate Student Association’s president and has served as graduate student representative for the Southwestern Educational Research Association and the American Educational Research Association's Tracking and De-tracking Special Interest Group. She frequently attends conferences to share her research.
+
+  <image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/1b603728-a94b-4ce7-941b-240ef579a678">
+  <figcaption><em>At AERA 2024 with Colleagues</em></figcaption>
+
+
+Recently, the Texas branch of the National Association of Multicultural Educators named her an Emerging Scholar.
+![TXNAME_AwardPic](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/50681c55-e94a-4735-8f7e-4fabe589be2f)
+
+Her hobbies include reading, spending time with family, exercising outdoors, and attending live pro-wrestling events. Any time she can do more than one of those at the same time is a big win in her book. Her sister even convinced her to participate in the Houston Spartan Sprint Obstacle Race in 2022 (which they ended up walking because someone (her sister) didn't train for it).
+
+  <image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/1f2738c9-6f78-4396-9fc5-573c3ea1a968">
+  <figcaption><em>Surviving an obstacle race with my sister</em></figcaption>
 
