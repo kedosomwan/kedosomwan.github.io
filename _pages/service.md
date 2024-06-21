@@ -53,6 +53,7 @@ I serve as a peer mentor for students new to the doctoral process, with both for
 - Tracking and Detracking Special Interest Group Graduate Representative (2023-2024)
   - attend monthly business meeting
   - recruited new members
+    
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/96f9a633-22f5-49fe-808b-fcab4d4014ef" class = "center" width ="500"/>
 
 # Community Service
