@@ -7,7 +7,8 @@ author_profile: true
 ---
 
 {% include toc %}
-<center>Professional Development and Skills</center>
+# <center>Professional Development and Skills</center>
+
 ## Professional Development
 - NASA-DEAP Data Science PhD Research Development Workshop [2024]
 
