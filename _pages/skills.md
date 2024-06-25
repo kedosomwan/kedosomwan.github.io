@@ -1,10 +1,23 @@
 ---
 layout: archive
-title: "Skills"
-permalink: /skills/
+title: "PD and Skills"
+permalink: /pdskills/
 toc: true
 author_profile: true
 ---
+
+# Professional Development
+- NASA-DEAP Data Science PhD Research Development Workshop [2024]
+- Graduate Resources and Development Advanced Certificate [2023]
+- Modern Meta Analysis Research Institute (MMARI) [2023]
+- Graduate Resources and Development Intermediate Certificate [2023]
+- BLUE Grant Writing Workshop [2023]
+- SERA On the Use of Normal Replacement Scores When Normality 
+Assumption is Violated Workshop [2022]
+- Graduate Mentor Academy Fellow [2022]
+- AERA Learning Series: Analyzing NAEP and TIMSS Data Using R [2022]
+- Graduate Resources and Development Basic Certificate [2022]
+- POWER Advanced Writing Studio [2021]
 
 # Skills
 - Quantitative Research Methods 
@@ -32,11 +45,4 @@ author_profile: true
   - Google Suites
   - Linux Ubuntu 
 
-  # Professional Development
-- Grad Development for Aggies Advanced Certificate
-- Graduate Mentor Academy Fellow
-- NASA-DEAP Data Science PhD Research Development Workshop
-- Modern Meta Analysis Research Institute (MMARI)
-- SERA On the Use of Normal Replacement Scores When Normality 
-Assumption is Violated Workshop
-- AERA Learning Series: Analyzing NAEP and TIMSS Data Using R
+  
