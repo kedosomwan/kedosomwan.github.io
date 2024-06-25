@@ -5,6 +5,9 @@ permalink: /pdskills/
 toc: true
 author_profile: true
 ---
+* table of contents
+{:toc}
+
 # Professional Development
 - NASA-DEAP Data Science PhD Research Development Workshop [2024]
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/a1ecd058-7717-4331-a7f4-e2b548d5f62c" width="500"/>
