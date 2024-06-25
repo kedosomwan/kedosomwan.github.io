@@ -40,7 +40,7 @@ You can download a complete pdf version of my CV here: [EdosomwanCV](https://git
 
 - Young, J., Young, J., **Edosomwan, K.**, Sanders, M., & King, N. (2022). A single-group summary of Black boys' science achievement on the NAEP. *Negro Educational Review, 73*(1-4), 161-188.
 
-- **Edosomwan, K.**, Young, J.R., & Tholen, A. (2022). Mathematics mobility in the middle grades: Tracking the odds of completing calculus. *Middle Grades Review, 8*(1), 1-17.
+- **Edosomwan, K.**, Young, J.R., & Tholen, A. (2022). Mathematics mobility in the middle grades: Tracking the odds of completing calculus. *Middle Grades Review, 8*(1), 1-17. https://files.eric.ed.gov/fulltext/EJ1357744.pdf
 
 - Tholen, A., **Edosomwan, K.**, Hong, D., Fulmer, G. W., & Young, J. (2022). Increasing access to advanced mathematics through self-selection: A multinomial logistic regression analysis. *The High School Journal, 105*(2), 145-169. https://doi.org/10.1353/hsj.2022.0003 
 
