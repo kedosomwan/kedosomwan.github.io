@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Professional Development and Skills"
+title: ""
 permalink: /pdskills/
 toc: true
 author_profile: true
 ---
 
 {% include toc %}
-
-# Professional Development
+<center>Professional Development and Skills</center>
+## Professional Development
 - NASA-DEAP Data Science PhD Research Development Workshop [2024]
 
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/a1ecd058-7717-4331-a7f4-e2b548d5f62c" width="500"/>
@@ -33,7 +33,7 @@ author_profile: true
 - [Graduate Resources and Development Basic Certificate](https://grad.tamu.edu/professional-development/grad-aggies) [2022]
 - [POWER Advanced Writing Studio](https://power.tamu.edu/writing-studios/) [2021]
 
-# Skills
+## Skills
 - Quantitative Research Methods 
   - Multiple regression
   - Structural equational modeling
