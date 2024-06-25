@@ -96,12 +96,12 @@ You can download a complete pdf version of my CV here: [EdosomwanCV](https://git
   
 ## Skills
 - Quantitative Research Methods 
-  - multiple regression
-  - structural equational modeling
-  - multilevel modeling
-  - multiple imputation
-  - machine learning
-- Coding for statistical analysis
+  - Multiple regression
+  - Structural equational modeling
+  - Multilevel modeling
+  - Multiple imputation
+  - Machine learning
+- Statistical Analysis Coding
   - Advanced R
   - Advanced Stata
   - Intermediate Python
@@ -112,13 +112,13 @@ You can download a complete pdf version of my CV here: [EdosomwanCV](https://git
 - Research Process
   - Familiar with Institutional Review Board Application Process
   - Completed CITI Program Biomedical Responsible Conduct of Research
+- Other Coding Languages
+  - Advanced Markdown
+  - Basic HTML
 - Other Software
-  - Excel
   - Microsoft Office
   - Google Suites
-  - Markdown 
-  - Ubuntu Linux
-  - Microsoft Windows
+  - Linux Ubuntu 
 
 ## Current Professional Memberships
 - National Association of Multicultural Education
