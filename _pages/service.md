@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Kristian's Service"
+title: ""
 toc: true
 permalink: /service/
 author_profile: true
@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 {% include toc %}
+# <center>Kristian's Service</center>
 
 # Bold Leaders in Urban Education
 I worked as the professional development chair for Bold Leaders in Urban Education from 2022-2023, an organization I was also a founding officer for at Texas A&M. In that role I organized professional development by arranging eminent scholars as speakers. 
 - helped write a successful grant to provide travel scholarships for students
 - arranged for journal editors and expert grant writers to give professional development workshops
-- was honored with the other founding officers with the Adair New Organization of the Year Award.
+- was honored with the other founding officers with the Adair New Organization of the Year Award
 
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/c28404c7-79ea-45b9-87b3-b5e7e142d24a" class = "center" width ="300"/>
 
