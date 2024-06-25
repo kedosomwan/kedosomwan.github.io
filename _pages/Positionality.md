@@ -7,6 +7,7 @@ author_profile: true
 ---
 
 {% include toc %}
+
 # <center>Kristian's Positionality</center>
 
 # Impassioned by Personal Experiences
