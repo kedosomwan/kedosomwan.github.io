@@ -45,7 +45,7 @@ You can download a complete pdf version of my CV here: [EdosomwanCV](https://git
 - Tholen, A., **Edosomwan, K.**, Hong, D., Fulmer, G. W., & Young, J. (2022). Increasing access to advanced mathematics through self-selection: A multinomial logistic regression analysis. *The High School Journal, 105*(2), 145-169. https://doi.org/10.1353/hsj.2022.0003 
 
 ## Conference Presentations
-- Edosomwan, K., Young, J.L., Wandix-White, D., & Hamilton, M. (2024, May 2-4). *Conscientious coursework: An analysis of multicultural education syllabi in teacher preparation programs* [Conference Presentation]. Texas National Association of Multicultural Educators. Houston, Texas, United States.
+- **Edosomwan, K.**, Young, J.L., Wandix-White, D., & Hamilton, M. (2024, May 2-4). *Conscientious coursework: An analysis of multicultural education syllabi in teacher preparation programs* [Conference Presentation]. Texas National Association of Multicultural Educators. Houston, Texas, United States.
 
 - Sanders, M., **Edosomwan, K.**, Williams III, J. A. (2024, April 11-14). *“Are they really on track?” A hierarchical linear modeling analysis of Texas mathematics tracking practices* [Conference Presentation]. American Educational Research Association 2024 Convention. Philadelphia, Pennsylvania, United States.
 
