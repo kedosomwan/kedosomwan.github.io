@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "My Positionality"
+title: "Kristian's Positionality"
 permalink: /positionality/
 toc: true
 author_profile: true
