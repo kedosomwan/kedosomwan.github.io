@@ -1,12 +1,14 @@
 ---
 layout: archive
-title: "Kristian's Teaching"
+title: ""
 permalink: /teaching/
 toc: true
 author_profile: true
 ---
 
 {% include toc %}
+
+# <center>Kristian's Teaching</center>
 
 # Courses Taught
 - Fall 2024		TEFB 273 Introduction to Culture, Community, Society and Schools \
