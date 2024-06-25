@@ -10,8 +10,6 @@ redirect_from:
 
 {% include toc %}
 
-# University Service
-This is my service done at Texas A&M University, both on the department and school level.
 ## Bold Leaders in Urban Education
 I worked as the professional development chair for Bold Leaders in Urban Education from 2022-2023, an organization I was also a founding officer for at Texas A&M. In that role I organized professional development by arranging eminent scholars as speakers. 
 - helped write a successful grant to provide travel scholarships for students
