@@ -11,9 +11,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+  
+  - title: "PD and Skills"
+    url: /pdskills/
+
   - title: "CV"
     url: /cv/
 
-  - title: "PD and Skills"
-    url: /pdskills/
