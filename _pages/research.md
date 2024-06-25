@@ -7,8 +7,8 @@ author_profile: true
 redirect_from:
   - /research
 ---
-* table of contents
-{:toc}
+
+{% include toc %}
 
 # Research Agenda
 

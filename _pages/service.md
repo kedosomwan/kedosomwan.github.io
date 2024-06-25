@@ -5,8 +5,9 @@ permalink: /service/
 toc: true
 author_profile: true
 ---
-* table of contents
-{:toc}
+
+{% include toc %}
+
 # University Service
 ## Bold Leaders in Urban Education
 I worked as the professional development chair for Bold Leaders in Urban Education from 2022-2023, an organization I was also a founding officer for at Texas A&M. In that role I organized professional development by arranging eminent scholars as speakers. 
