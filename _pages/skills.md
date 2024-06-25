@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "PD and Skills"
+title: "Professional Development and Skills"
 permalink: /pdskills/
 toc: true
 author_profile: true
