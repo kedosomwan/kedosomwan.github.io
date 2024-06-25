@@ -10,7 +10,7 @@ redirect_from:
 
 {% include toc %}
 
-## Bold Leaders in Urban Education
+# Bold Leaders in Urban Education
 I worked as the professional development chair for Bold Leaders in Urban Education from 2022-2023, an organization I was also a founding officer for at Texas A&M. In that role I organized professional development by arranging eminent scholars as speakers. 
 - helped write a successful grant to provide travel scholarships for students
 - arranged for journal editors and expert grant writers to give professional development workshops
@@ -18,7 +18,7 @@ I worked as the professional development chair for Bold Leaders in Urban Educati
 
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/c28404c7-79ea-45b9-87b3-b5e7e142d24a" class = "center" width ="300"/>
 
-## Graduate Student Association (GSA)
+# Graduate Student Association (GSA)
 For three years from 2021-2023, I was an officer in my department's Graduate Student Association, serving as president for those last two years. 
 - recruited officers and members
 - connected incoming students with peer mentors
@@ -26,26 +26,25 @@ For three years from 2021-2023, I was an officer in my department's Graduate Stu
 - ran meetings to arrange service, social, and professional development events for students
 - coordinated department level events
 
-## Graduate Student Advisory Council
+# Graduate Student Advisory Council
   As GSA president, I served as a member of the Graduate Student Advisory Council for the School of Education and Human Development. 
 - met with School Associate Dean to pass on department graduate student concerns
 - organized Brown Bag workshop events for the School of Education and Human Development
 
-## Volunteer Quantitative Research Mentor
+# Volunteer Quantitative Research Mentor
 Over my years in the graduate program, multiple students from my program area have requested my consultation on quantitative data analysis as a quantitative research expert.
 - trained students in running and analyzing quantitative analyses
 - checked code and analysis for peers
 - helped peers do exploratory data analysis and create research questions
 - guided students in discovering relevant secondary data sets
 
-## Graduate Student Peer Mentor
+# Graduate Student Peer Mentor
 I serve as a peer mentor for students new to the doctoral process, with both formal and informal mentoring activities. 
 - mentored incoming students through conference and publication process
 - connected peer scholars for projects and publications
 - completed training to become [Graduate Mentoring Academy Fellow](https://grad.tamu.edu/professional-development/mentoring) 
 
 # Professional Service
-
 - Southwest Educational Research Association Campus Representative (2022-2023)
   - facilitated conference sessions
   - solicited scholarship funds from university
