@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Kristian's Teaching"
 permalink: /teaching/
 toc: true
 author_profile: true
