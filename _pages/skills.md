@@ -10,10 +10,8 @@ author_profile: true
 
 # Professional Development
 - [NASA-DEAP Data Science PhD Research Development Workshop](https://tamids.tamu.edu/training/phd-development-workshop/) [2024]
-- 
+  
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/0fb98ac6-95c7-46ad-8595-2b196cf3687d" width="500"/>
-
-<img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/a1ecd058-7717-4331-a7f4-e2b548d5f62c" width="500"/>
 
 - CITI Program Responsible Conduct of Research [2023]
 
