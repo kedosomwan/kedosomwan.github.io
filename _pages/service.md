@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: <center>Kristian's Service</center>
 toc: true
 permalink: /service/
 author_profile: true
@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 {% include toc %}
-# <center>Kristian's Service</center>
 
 # Bold Leaders in Urban Education
 I worked as the professional development chair for Bold Leaders in Urban Education from 2022-2023, an organization I was also a founding officer for at Texas A&M. In that role I organized professional development by arranging eminent scholars as speakers. 
