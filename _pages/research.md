@@ -16,6 +16,12 @@ Inspired by Black Feminist Though and my own experiences as a student and teache
 
 ![](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/945a664b-e555-44bd-947e-3fac3c420978)
 
+# Dissertation
+
+## Dissertation Research Questions
+
+## Dissertation Timeline
+
 # Summaries and Backgrounds of Selected Publications
 
 You can find a full list of my peer-reviewed articles on <a href="https://scholar.google.com/citations?user=9EWCrkEAAAAJ&hl=en&oi=ao">Google Scholar</a>.
