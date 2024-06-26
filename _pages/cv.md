@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: <center>Kristian Curriculum Vitae</center>
 toc: true
 permalink: /cv/
 author_profile: true
