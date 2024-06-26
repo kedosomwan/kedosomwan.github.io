@@ -9,7 +9,9 @@ author_profile: true
 {% include toc %}
 
 # Professional Development
-- NASA-DEAP Data Science PhD Research Development Workshop [2024]
+- [NASA-DEAP Data Science PhD Research Development Workshop](https://tamids.tamu.edu/training/phd-development-workshop/) [2024]
+- 
+<img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/0fb98ac6-95c7-46ad-8595-2b196cf3687d" width="500"/>
 
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/a1ecd058-7717-4331-a7f4-e2b548d5f62c" width="500"/>
 
@@ -21,7 +23,7 @@ author_profile: true
 
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/96e68c09-88e0-4e08-8f1b-684f33e014f0" width="500" />
 
-- Modern Meta Analysis Research Institute (MMARI) [2023]
+- [Modern Meta Analysis Research Institute (MMARI)](https://www.meta-analysis-research-institute.com/) [2023]
 
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/eb4e6a74-4f00-4eb9-b8ff-dbafeb6f3739" width="500" />
 
