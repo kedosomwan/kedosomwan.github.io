@@ -123,6 +123,7 @@ You can download a complete pdf version of my CV here: [EdosomwanCV](https://git
 - American Educational Research Association (AERA)
 - AERA Tracking and Detracking Special Interest Group
 - Graduate Student Association
+
 ## Past Professional Memberships
 - Southwest Educational Research Association
 - Research Council on Mathematical Learning
@@ -137,6 +138,7 @@ You can download a complete pdf version of my CV here: [EdosomwanCV](https://git
 - Co-Host for Texas A&M Outstanding Alumni Campus Visit (Nov 2022)
 - Bold Leaders in Urban Education Professional Development Chair (2022-2023)
 - Texas A&M Graduate Student Association Vice President
+
 ## Professional Service
 - AERA Tracking and Detracking SIG Graduate Representative
 - AERA Celebration and Challenges of Detracking Symposium Discussant 
@@ -144,6 +146,7 @@ You can download a complete pdf version of my CV here: [EdosomwanCV](https://git
 - Research Council on Mathematics Learning 2024 Proceedings Reviewer
 - Southwest Educational Research Association Representative
 - Southwest Educational Research Association Proposal Reviewer
+  
 ## Community Service
 - Volunteer at Brazos Valley Boys & Girls Club (Jan 2024) 
 - Volunteer at Fannin Elementary STEM Night (Mar 2023) 
@@ -155,8 +158,7 @@ You can download a complete pdf version of my CV here: [EdosomwanCV](https://git
 - Graduate Mentor Academy Fellow
 - NASA-DEAP Data Science PhD Research Development Workshop
 - Modern Meta Analysis Research Institute (MMARI)
-- SERA On the Use of Normal Replacement Scores When Normality 
-Assumption is Violated Workshop
+- SERA On the Use of Normal Replacement Scores When Normality Assumption is Violated Workshop
 - AERA Learning Series: Analyzing NAEP and TIMSS Data Using R
 
 ## Teaching Activities
