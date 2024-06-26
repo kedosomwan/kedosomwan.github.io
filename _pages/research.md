@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Kristian's Research"
+title: "Kristian's Research" {: style="text-align: center"}
 toc: true
 permalink: /research/
 author_profile: true
