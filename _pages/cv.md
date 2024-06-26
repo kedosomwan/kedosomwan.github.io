@@ -8,7 +8,7 @@ redirect_from:
   - /resume
 ---
 You can download a complete pdf version of my CV here: [EdosomwanCV](https://github.com/kedosomwan/kedosomwan.github.io/blob/8e3065e282c70606a8f18b62b189717f2e2fba53/files/Documents/EdosomwanCV.pdf)
-<center>{% include toc %}<center>
+{% include toc %}
 {% include base_path %} 
 ## Education
 
