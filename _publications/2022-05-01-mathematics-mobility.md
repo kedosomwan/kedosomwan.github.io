@@ -2,7 +2,7 @@
 title: "Mathematics mobility in the middle grades: Tracking the odds of completing calculus"
 collection: publications
 permalink: /publication/2022-05-01-mathematics-mobility
-excerpt: 'Our study discovered students who took Algebra I in middle school had greater odds of taking high school calculus, although the odds varied across racial groups.'
+excerpt: 'Our study discovered students who took Algebra I in middle school had greater odds of taking high school calculus, although the odds varied across racial groups. This adds to the body of research indicating benefits for early Algebra I.'
 date: 2022-05-01
 venue: 'Middle Grades Review'
 paperurl: 'https://scholarworks.uvm.edu/mgreview/vol8/iss1/4/'
