@@ -32,7 +32,7 @@ Inspired by Black Feminist Though and my own experiences as a student and teache
 
 ![tentative dissertation timeline](https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/a79a7211-4da3-4229-9c7d-6ae52de356b7)
 
-# Summaries and Backgrounds of Selected Publications
+# First Author Publications
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">Here I have a list of my first author publications with links you can follow for details of the work and stories behind them. You can find a full list of my peer-reviewed publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
