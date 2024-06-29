@@ -2,7 +2,7 @@
 title: "The relationship between middle grades algebra and advanced Carnegie credits: A QuantCrit analysis"
 collection: publications
 permalink: /publication/2024MiddleAlgebraAdvancedCredits
-excerpt: 'This study found that based on a national transcript study students who took Algebra I before high school on average earned more advanced credits.'
+excerpt: 'This study found that based on a national transcript study students who took Algebra I before high school on average earned more advanced credits, suggesting a benefit for early algebra.'
 date: 2024-06-03
 venue: 'Middle Grades Review'
 paperurl: 'https://scholarworks.uvm.edu/mgreview/vol10/iss1/3/'
