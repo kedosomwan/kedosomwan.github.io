@@ -2,7 +2,7 @@
 title: "Tracking the effects: Examining the opportunity stratification hypothesis in action"
 collection: publications
 permalink: /publication/2023-04-14-tracking-the-effects
-excerpt: 'This paper found a correlation between non-college preparatory academic tracks and increased exclusionary discipline.'
+excerpt: 'This paper found a correlation between non-college preparatory academic tracks and increased exclusionary discipline, potentially implying that tracking and discipline have interrelated consequences for students.'
 date: 2023-04-14
 venue: 'Journal of Education'
 paperurl: 'https://doi.org/10.1177/00220574231168634'
