@@ -1,20 +1,20 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+
   - title: "Research"
     url: /research/
 
-  - title: "CV"
-    url: /cv/
+  - title: "Teaching"
+    url: /teaching/ 
   
+  - title: "Service"
+    url: /service/  
+
   - title: "Positionality"
     url: /positionality/ 
-    
-  - title: "Teaching"
-    url: /teaching/  
-
-  - title: "Service"
-    url: /service/    
-  
+ 
   - title: "PD and Skills"
     url: /pdskills/
 
