@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Researcher and Educator
+<h2>Researcher and Educator</h2>
 
 Kristian Edosomwan is a doctoral candidate in the Multicultural Program in the Department of Teaching, Learning, and Culture (TLAC) at Texas A&M University. She is now a critical quantitative scholar ready to research and advocate for educational equity. Specifically, her research and [publications](https://scholar.google.com/citations?user=9EWCrkEAAAAJ&hl=en&oi=sra) often center on academic tracking and discipline as it relates to student outcomes. Her experiences include instructing undergraduate multicultural education courses, teaching middle school math and science in Texas, and serving as a Fulbright English Teaching Assistant in Taiwan. 
 
@@ -18,7 +18,7 @@ She served two terms as TLAC’s Graduate Student Association’s president and 
   <image src = "https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/50681c55-e94a-4735-8f7e-4fabe589be2f">
   <figcaption><em>TXNAME Award Ceremony</em></figcaption>
 
-## Personal Life
+<h2> Personal Life</h2>
 
 With two retired teachers as parents, her educational roots run deep. Her father hails from Nigeria and her mother was born and raised in rural Louisiana, where she was one of the first students to desegregate her middle school.
 
