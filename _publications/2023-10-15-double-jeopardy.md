@@ -2,7 +2,7 @@
 title: "Double Jeopardy? Examining the influence of mathematics tracking on in-school suspensions through an intersectionality framework"
 collection: publications
 permalink: /publication/2023-10-15-double-jeopardy
-excerpt: 'This paper found that students in advanced mathematics had a lower likelihood of experiencing in school suspension.'
+excerpt: 'This paper found that students in advanced mathematics had a lower likelihood of experiencing in school suspension, suggesting a potential protective association with rigorous mathematics and discipline.'
 date: 2023-10-01
 venue: 'School Science and Mathematics'
 paperurl: 'https://doi.org/10.1111/ssm.12607'
