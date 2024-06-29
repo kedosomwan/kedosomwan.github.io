@@ -2,21 +2,21 @@
 main:
   - title: "Research"
     url: /research/
-    
+
+  - title: "CV"
+    url: /cv/
+  
   - title: "Positionality"
     url: /positionality/ 
     
+  - title: "Teaching"
+    url: /teaching/  
+
   - title: "Service"
     url: /service/    
-
-  - title: "Teaching"
-    url: /teaching/    
   
   - title: "PD and Skills"
     url: /pdskills/
 
-  - title: "CV"
-    url: /cv/
 
-  - title: "Publications"
-    url: /publications/
+
