@@ -1,4 +1,3 @@
-
 ---
 layout: archive
 title: <center>Kristian's Dissertation</center>
