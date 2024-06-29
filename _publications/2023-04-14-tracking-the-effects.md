@@ -6,7 +6,7 @@ excerpt: 'This paper found a correlation between non-college preparatory academi
 date: 2023-04-14
 venue: 'Journal of Education'
 paperurl: 'https://doi.org/10.1177/00220574231168634'
-citation: 'Edosomwan, K., Young, J.L., Butler, B., Young, J.R., & Williams III, J. A. (2023). Tracking the effects: Examining the opportunity stratification hypothesis in action. <i>Journal of Education, 08</i> (0), 1-15. <a href="https://doi.org/10.1177/00220574231168634">https://doi.org/10.1177/00220574231168634</a>'
+citation: 'Edosomwan, K., Young, J.L., Butler, B., Young, J.R., & Williams III, J. A. (2023). Tracking the effects: Examining the opportunity stratification hypothesis in action. <i>Journal of Education, 204</i> (3), 536-550. <a href="https://doi.org/10.1177/00220574231168634">https://doi.org/10.1177/00220574231168634</a>'
 ---
 
 - Using a logistic regression analysis of the Educational Longitudinal Study of 2002 (ELS:02), this paper discovered a strong negative correlation between being in non-college preparatory academic programs and experiencing exclusionary discipline. Based on those results, we discuss how both tracking and exclusionary discipline serve as ways to limit opportunity for students who are already disadvantaged by the system by race and socioeconomic status.
