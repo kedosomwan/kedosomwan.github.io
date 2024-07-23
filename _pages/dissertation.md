@@ -15,7 +15,7 @@ redirect_from:
 # Dissertation Research Questions
 1. What is the underlying factor structure of parents’ self-efficacy in their child’s tracking enrollment?
 2. What is the underlying factor structure of parents’ opportunity hoarding regarding tracking practices?
-3. How do different dimensions of parental self-efficacy relate to their child’s enrollment ELA and mathematics classes?
+3. How do different dimensions of parental self-efficacy relate to their child’s enrollment in ELA and mathematics classes?
 4. What factors contribute to parents’ behaviors of opportunity hoarding in the context of their children’s ELA and Mathematics?
 
 # Dissertation Tentative Timeline
