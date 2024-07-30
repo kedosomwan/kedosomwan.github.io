@@ -1,9 +1,8 @@
 ---
-permalink: /
+permalink: /collaborations/
 title: <center>Collaborations<center>
 author_profile: true
 redirect_from: 
-  - /collaborations/
   - /collaborations.html
 ---
 
