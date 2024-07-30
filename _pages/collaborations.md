@@ -1,5 +1,5 @@
 ---
-permalink: /collaborations
+permalink: /
 title: <center>Collaborations<center>
 author_profile: true
 redirect_from: 
