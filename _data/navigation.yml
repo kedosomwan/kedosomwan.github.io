@@ -3,9 +3,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  -title: "Collaborations"
-   url: /collaborations/
-
   - title: "Research"
     url: /research/
 
