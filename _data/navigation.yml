@@ -3,17 +3,17 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Research Studies"
+  - title: "Research"
     url: /research/
+
+  - title: "Collaborations"
+    url: /collaborations/ 
 
   - title: "Teaching"
     url: /teaching/ 
   
   - title: "Service"
     url: /service/  
-
-  - title: "Collaborations"
-    url: /collaborations/ 
 
   - title: "Positionality"
     url: /positionality/ 
