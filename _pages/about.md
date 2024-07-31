@@ -1,10 +1,7 @@
 ---
-permalink: /about
+permalink: /about/
 title: <center>About Kristian<center>
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.md/
 ---
 
 <h2>Researcher and Educator</h2>
