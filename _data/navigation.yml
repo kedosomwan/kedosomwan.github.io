@@ -3,11 +3,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Research"
+  - title: "Research Studies"
     url: /research/
-
-  - title: "Collaborations"
-    url: /collaborations/ 
 
   - title: "Teaching"
     url: /teaching/ 
@@ -15,13 +12,16 @@ main:
   - title: "Service"
     url: /service/  
 
+  - title: "Collaborations"
+    url: /collaborations/ 
+
   - title: "Positionality"
     url: /positionality/ 
  
   - title: "PD and Skills"
     url: /pdskills/
 
-  - title: "About Me"
+  - title: "About"
     url: /about/
 
 
