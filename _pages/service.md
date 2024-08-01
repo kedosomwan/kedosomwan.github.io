@@ -15,27 +15,6 @@ redirect_from:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Professional and Community Service</title>
-    <style>
-        .center {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-        h1 {
-            font-size: 24px;
-            color: #333;
-        }
-        h2 {
-            font-size: 20px;
-            color: #555;
-        }
-        ul {
-            list-style-type: square;
-        }
-        img {
-            margin-top: 20px;
-        }
-    </style>
 </head>
 <body>
     <h1>Bold Leaders in Urban Education</h1>
