@@ -7,16 +7,66 @@ author_profile: true
 redirect_from:
   - /research
 ---
-
+{% include toc %}
 <!DOCTYPE html>
 <html lang="en">
+    <style>
+        ol {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          background-color: #f1f1f1;
+          
+        }
+
+        ul {
+            list-style-type: none;
+            margin-bottom: 20px;
+            border: 1px solid #5d04aa;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        
+        li {
+            text-indent: -0.75em; 
+            margin: 0.33em 0.5em 0.5em 1.5em;
+        }
+
+        h2 { 
+            background-color: #5d04aa;
+            color: white;
+        }
+
+        li a {
+          display: block;
+          color: #000;
+          padding: 8px 16px;
+          text-decoration: none;
+        }
+        
+        li a.active {
+          background-color: purple;
+          width: 200px;
+          color: white;
+        }
+        
+        li a:hover:not(.active) {
+          background-color: purple;
+          color: white;
+        }
+
+        .x {
+            margin-left: 50px;
+            text-indent: -30px;
+        }
+        </style>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Research Agenda</title>
 </head>
 <body>
-    {% include toc %}
 
     <h1>Research Agenda</h1>
     <p>
