@@ -57,13 +57,41 @@ redirect_from:
           background-color: purple;
           color: white;
         }
+        #toc {
+            background-color: #f4f4f4;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ddd;
+        }
+        #toc ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        #toc ul li {
+            margin: 5px 0;
+        }
+        #toc ul li a {
+            text-decoration: none;
+            color: #0073e6;
+        }
+        #toc ul li a:hover {
+            text-decoration: underline;
+        }
         </style>
 
 </head>
 <body>
 
-{% include toc %}
-
+  <div id="toc">
+    <h2>Contents</h2>
+    <ul>
+        <li><a href="#research-agenda">Research Agenda</a></li>
+        <li><a href="#dissertation">Dissertation</a></li>
+        <li><a href="#first-author-publications">First Author Publications</a></li>
+        <li><a href="#selected-conference-presentations">Selected Conference Presentations</a></li>
+        
+    </ul>
+</div>
 <h1>Research Agenda</h1>
 <ul>
 <p>Inspired by Black Feminist Thought and my own experiences as a student and teacher in K-12 schools, I analyze educational inequities and opportunity gaps caused by inequitable access to rigorous coursework and disciplinary disparities. I hypothesize and research how these issues are worsened by ability grouping that reinforces social inequities based on race and class.</p>
