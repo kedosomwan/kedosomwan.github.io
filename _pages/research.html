@@ -12,73 +12,73 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Research Agenda</title>
+    <title>Research</title>
     <style>
       p{font-size: 16px;}
-      a {
-    font-size: 16px;
-}
+      body {
+          font-family: Arial, sans-serif;
+          line-height: 1.6;
+          margin: 20px;
+      }
+      h1 {
+          font-size: 24px;
+          margin-bottom: 10px;
+      }
+      h2 {
+          font-size: 20px;
+          margin-top: 20px;
+          margin-bottom: 10px;
+      }
+      ul {
+          list-style-type: none;
+          margin-bottom: 20px;
+          border: 1px solid #5d04aa;
+          padding: 10px;
+          border-radius: 5px;
+          background-color: #f9f9f9;
+          text-align: left; /* Ensure text is left-aligned */
+          }
 
-        ul {
-            list-style-type: none;
-            margin-bottom: 20px;
-            border: 1px solid #5d04aa;
-            padding: 10px;
-            border-radius: 5px;
-            background-color: #f9f9f9;
-        }
-        
-        li {
-            margin: 0.33em 0.5em 0.5em 1.5em;            
-        }
-
-        h1 { 
-            background-color: #5d04aa;
-            color: white;
-            text-align: center;
-        }
-
-
-        h2 { 
-            background-color: #5d04aa;
-            color: white;
-        }
-
-        li a {
-          display: block;
-          color: #000;
-          padding: 8px 16px;
-          text-decoration: none;
-        }
-        
-        li a.active {
-          background-color: purple;
-          width: 200px;
-          color: white;
-        }
-        
-        li a:hover:not(.active) {
-          background-color: purple;
-          color: white;
-        }
-        .toc {
-            margin-bottom: 20px;
-        }
-        .toc a {
-            text-decoration: none;
-            color: #007BFF;
-        }
-        .toc a:hover {
-            text-decoration: underline;
-        }
-        img.center {
-            display: block;
-            margin: 20px auto;
-        }
-        </style>
-
-</head>
-<body>
+      li {
+        text-indent: 0; /* Remove negative text indent */
+        margin: 0.33em 0; /* Adjust margin for vertical spacing */
+        padding: 8px 16px; /* Ensure consistent padding */
+        display: block; /* Ensure items are displayed as block      elements */
+        font-size: 16px;
+      }
+      
+      li a {
+        display: block;
+        color: #000;
+        text-decoration: none;
+      }
+      
+      li a.active {
+        background-color: purple;
+        color: white;
+      }
+      
+      li a:hover:not(.active) {
+        background-color: purple;
+        color: white;
+      }
+            .toc {
+                margin-bottom: 20px;
+            }
+            .toc a {
+                text-decoration: none;
+                color: #007BFF;
+            }
+            .toc a:hover {
+                text-decoration: underline;
+            }
+            img.center {
+                display: block;
+                margin: 20px auto;
+            }
+        </style>      
+      </head>
+      <body>
 
   <div id="toc">
     <h1>Contents</h1>
@@ -86,23 +86,26 @@ redirect_from:
         <li><a href="#research-agenda">Research Agenda</a></li>
         <li><a href="#dissertation">Dissertation</a></li>
         <li><a href="#first-author-publications">First Author Publications</a></li>
-        <li><a href="#selected-conference-presentations">Selected Conference Presentations</a></li>
-        
+        <li><a href="#selected-conference-presentations">Selected Conference Presentations</a></li>      
     </ul>
 </div>
+<section id="research-agenda">
 <h1>Research Agenda</h1>
 <ul>
 <p>Inspired by Black Feminist Thought and my own experiences as a student and teacher in K-12 schools, I analyze educational inequities and opportunity gaps caused by inequitable access to rigorous coursework and disciplinary disparities. I hypothesize and research how these issues are worsened by ability grouping that reinforces social inequities based on race and class.</p>
 </ul>
 
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/945a664b-e555-44bd-947e-3fac3c420978" alt="Research Image">
+</section>
 
+<section id="dissertation">
 <h1>Dissertation</h1>
 <ul>
 <p>My dissertation will create and validate a survey instrument measuring the constructs of (1) parents’ self-efficacy about their child’s ELA (English Language Arts) and mathematics placement decisions and (2) opportunity hoarding. Districts, schools, researchers, and advocacy groups alike will be able to use this instrument to plan parent interventions that increase advanced course taking for marginalized students. For more details about the research questions and timeline click the link below. 
   <li><a href="https://kedosomwan.github.io/dissertation">Dissertation Study</a></p></li>
 </ul>
-
+</section>
+<section id="first-author-publications">
 <h1>First Author Publications</h1>
 <ul>
 {% if site.author.googlescholar %}
@@ -115,8 +118,9 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 </ul>
-
-<h1>Selected Conference Presentations</h1>
+</section>
+<section id="selected-conference-presentations">
+<h1 id="selected-conference-presentations">Selected Conference Presentations</h1>
 <ul>
 <h2>A Scoping Review of Critical Quantitative Research in Education</h2>
 
@@ -126,6 +130,7 @@ redirect_from:
 <ul>
 <img src="https://github.com/kedosomwan/kedosomwan.github.io/assets/172934087/81b909d7-ae34-42fb-9a9a-a859ea0b8583" alt="Presentation Image">
 </ul>
+</section>
 </body>
 </html>
     
