@@ -14,59 +14,65 @@ layout: default
 
 <style>
   ol {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    background-color: #f1f1f1;
-    
-  }
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #f1f1f1;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  max-width: 100%;
+  overflow: hidden;
+}
 
-  ul {
-      list-style-type: none;
-      margin-bottom: 20px;
-      border: 1px solid #5d04aa;
-      padding: 10px;
-      border-radius: 5px;
-      background-color: #f9f9f9;
-  }
-  
-  li {
-      text-indent: -0.75em; 
-      margin: 0.33em 0.5em 0.5em 1.5em;
-  }
+ul {
+  list-style-type: none;
+  margin-bottom: 20px;
+  border: 1px solid #5d04aa;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
 
-  h1 { 
-      background-color: #5d04aa;
-      color: white;
-      text-align: center;
-  }
+li {
+  text-indent: 0;
+  margin: 0;
+  padding: 0;
+}
 
-  h2 { 
-      background-color: #5d04aa;
-      color: white;
-  }
+h1 { 
+  background-color: #5d04aa;
+  color: white;
+  text-align: center;
+}
 
-  li a {
-    display: block;
-    color: #000;
-    padding: 8px 16px;
-    text-decoration: none;
-  }
-  
-  li a.active {
-    background-color: purple;
-    color: white;
-  }
-  
-  li a:hover:not(.active) {
-    background-color: purple;
-    color: white;
-  }
+h2 { 
+  background-color: #5d04aa;
+  color: white;
+}
 
-  .x {
-      margin-left: 50px;
-      text-indent: -30px;
-  }
+li a {
+  display: block;
+  color: #000;
+  padding: 10px 15px;
+  text-decoration: none;
+  text-align: center;
+}
+
+li a.active {
+  background-color: purple;
+  color: white;
+}
+
+li a:hover:not(.active) {
+  background-color: purple;
+  color: white;
+}
+
+.x {
+  margin-left: 50px;
+  text-indent: -30px;
+}
   </style>
 
 <div id="main" role="main">
