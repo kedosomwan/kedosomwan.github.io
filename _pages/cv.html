@@ -32,20 +32,6 @@ redirect_from:
             line-height: 1.4;
         }
 
-        ul {
-            list-style-type: none;
-            margin-bottom: 20px;
-            border: 1px solid #5d04aa;
-            padding: 10px;
-            border-radius: 5px;
-            background-color: #f9f9f9;
-        }
-        
-        li {
-            text-indent: -0.75em; 
-            margin: 0.33em 0.5em 0.5em 1.5em;
-        }
-
         h1 { 
             background-color: #5d04aa;
             color: white;
@@ -57,23 +43,40 @@ redirect_from:
             color: white;
         }
 
-        li a {
-          display: block;
-          color: #000;
-          padding: 8px 16px;
-          text-decoration: none;
-        }
+        ul {
+            list-style-type: none;
+            margin-bottom: 20px;
+            border: 1px solid #5d04aa;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+            text-align: left; /* Ensure text is left-aligned */
+            }
+
+li {
+    text-indent: 0; /* Remove negative text indent */
+    margin: 0.33em 0; /* Adjust margin for vertical spacing */
+    padding: 8px 16px; /* Ensure consistent padding */
+    display: block; /* Ensure items are displayed as block elements */
+    font-size: 16px;
+}
+
+li a {
+    display: block;
+    color: #000;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: purple;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: purple;
+    color: white;
+}
         
-        li a.active {
-          background-color: purple;
-          width: 200px;
-          color: white;
-        }
-        
-        li a:hover:not(.active) {
-          background-color: purple;
-          color: white;
-        }
         </style>
 <head>
     <meta charset="UTF-8">
