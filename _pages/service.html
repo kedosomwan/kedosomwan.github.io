@@ -31,11 +31,37 @@ redirect_from:
         }
         ul {
             list-style-type: none;
-            padding: 0;
-        }
-        li {
             margin-bottom: 20px;
-        }
+            border: 1px solid #5d04aa;
+            padding: 10px;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+            text-align: left; /* Ensure text is left-aligned */
+            }
+
+li {
+    text-indent: 0; /* Remove negative text indent */
+    margin: 0.33em 0; /* Adjust margin for vertical spacing */
+    padding: 8px 16px; /* Ensure consistent padding */
+    display: block; /* Ensure items are displayed as block elements */
+    font-size: 16px;
+}
+
+li a {
+    display: block;
+    color: #000;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: purple;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: purple;
+    color: white;
+}
         .toc {
             margin-bottom: 20px;
         }
@@ -53,10 +79,10 @@ redirect_from:
     </style>
 </head>
 <body>
-    <h1>Service and Leadership</h1>
 
+    <p>I have served in multiple service positions on the university and national level, from president of the Graduate Student Association to graduate representative for the AERA Tracking and de-tracking SIG. I have also volunteered in the community and at schools.</p>
     <div class="toc">
-        <h2>Table of Contents</h2>
+        <h1>Contents</h1>
         <ul>
             <li><a href="#bold-leaders">Bold Leaders in Urban Education</a></li>
             <li><a href="#gsa">Graduate Student Association (GSA)</a></li>
@@ -67,8 +93,6 @@ redirect_from:
             <li><a href="#community-service">Community Service</a></li>
         </ul>
     </div>
-
-    <p>I have served in multiple service positions on the university and national level, from president of the Graduate Student Association to graduate representative for the AERA Tracking and de-tracking SIG. I have also volunteered in the community and at schools.</p>
 
     <h1 id="bold-leaders">Bold Leaders in Urban Education</h1>
     <p>I worked as the professional development chair for Bold Leaders in Urban Education from 2022-2023, an organization I was also a founding officer for at Texas A&M.</p>
