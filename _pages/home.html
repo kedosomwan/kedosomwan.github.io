@@ -22,25 +22,44 @@ redirect_from:
             padding: 10px;
             border-radius: 5px;
             background-color: #f9f9f9;
+            overflow-wrap: break-word;
+            word-wrap: break-word;
+            word-break: break-word;
         }
         .citation a {
             display: flex;
-            align-items: center;
+            align-items: flex-start;
             text-decoration: none;
             color: #333333;
         }
         .thumbnail {
             width: 50px;
             height: 50px;
+            min-width: 50px;
             margin-right: 10px;
             border-radius: 5px;
         }
         .citation span {
-            font-size: 20px;
+            font-size: 16px;
+            line-height: 1.4;
         }
         h1 { 
-          background-color: #5d04aa;
-          color: white;
+            background-color: #5d04aa;
+            color: white;
+            padding: 10px;
+            margin: 0;
+        }
+    
+        @media (max-width: 600px) {
+            .citation a {
+                flex-direction: column;
+            }
+            .thumbnail {
+                margin-bottom: 10px;
+            }
+            .citation span {
+                font-size: 14px;
+            }
         }
     </style>
 </head>
